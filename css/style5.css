@@ -1,0 +1,17 @@
+.gallery > li{
+    list-style-type: none;
+}
+.gallery{
+    margin: 70px 160px 70px 160px;
+}
+img{
+    border: .4rem black solid;
+    padding: 12px;
+    margin: 6px;
+    width: 235px;
+    vertical-align: middle;
+    background-color: white;
+}
+body{
+    background-color: rgb(238, 238, 238);
+}

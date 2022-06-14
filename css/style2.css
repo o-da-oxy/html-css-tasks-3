@@ -1,0 +1,17 @@
+section{
+    border: 5px dotted;
+    border-color: lightgreen;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+p{
+    padding: 20px;
+    text-align: center;
+    border: 5px solid;
+    border-color: blue;
+    width:200px;
+}

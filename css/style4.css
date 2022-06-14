@@ -1,0 +1,33 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 35px 65px 0px 65px;
+}
+h1, a{
+    display: inline-block;
+    margin-bottom: 18px;
+}
+a{
+    color: rgb(96, 184, 90);
+    padding: 12px;
+    font-size: 12px;
+}
+header{
+    border-bottom: 1.8px solid black;
+}
+h1{
+    font-weight: 600;
+    font-size: 36px;
+    margin-right: 85px;
+}
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 26.5px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+p{
+    font-size: 12.2px;
+    line-height: 1.5;
+    margin-bottom: 18px;
+}
